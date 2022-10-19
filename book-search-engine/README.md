@@ -1,52 +1,6 @@
-![Repo Size][repo-size]
-![Language][github-language]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-![MIT License][license-shield]
-
-<br />
-<p align="center">
-
-<h3 align="center" id="book-search-engine">Book Search Engine</h3>
-
-<p align="center">
-As an avid reader, I want to search for new books to read so that I can keep a list of books to purchase.
-<br />
-<a href="#how-to-download"><strong>Explore the docs »</strong></a>
-<br />
-<br />
-<a href="#example">View Demo</a>
-.
-
-·
-<a href="https://github.com/Derimarg/book-search-engine/issues">Request Feature</a>
-</p>
-</p>
-<br />
-<br />
 
 > Link web page: https://dg-book-search-engine.herokuapp.com/
 
-<details open="open">
-<summary>Table of Contents</summary>
-<ul>
-<li><a href="#description">Description</a></li>
-<li><a href="#technologies">Technologies</a></li>
-<li><a href="#how-to-download">Download</a></li>
-<li><a href="#installation">Installation</a></li>
-<li><a href="#prerequisites">Prerequisites</a></li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#roadmap">Roadmap</a></li>
-<li><a href="#contributing">Contributing</a></li>
-<li><a href="#questions">Questions</a></li>
-<li><a href="#license">License</a></li>
-</ul>
-</details>
-
----
 
 ## Description
 
