@@ -34,46 +34,7 @@ GIVEN a book search engine
 
 - Clicking on the Logout button, I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button.
 
-<br />
-<br />
-<br/>
 
-## Example
-
-<br />
-<br />
-
-<img src="./assets/img/demo-1.jpg"/>
-<br />
-<br />
-<img src="./assets/img/demo-2.jpg"/>
-<br />
-<br />
-<img src="./assets/img/demo-3.jpg"/>
-<br />
-<br />
-<img src="./assets/img/demo-4.jpg"/>
-<br />
-<br />
-<br />
-<br />
-
-## Technologies
-
-- <p><a href="https://nodejs.org/">Node.js</a></p>
-- <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
-- <p><a href="https://www.npmjs.com/">NPM</a></p>
-- <p><a href="https://reactjs.org/docs/getting-started.html">React</a></p>
-- <p><a href="https://www.npmjs.com/package/graphql">NPM GrapghQL</a></p>
-- <p><a href="apollographql.com/docs/react/get-started/">NPM Apollo Clinet</a></p>
-- <p><a href="https://www.npmjs.com/package/apollo-server-express">NPM Apollo Server Express</a></p>
-- <p><a href="https://www.npmjs.com/package/react-router">NPM React Router</a></p>
-- <p><a href="https://www.npmjs.com/package/react-router-dom">NPM React Router DOM</a></p>
-- <p><a href="https://www.npmjs.com/package/concurrently">NPM Concurrently</a></p>
-- <p><a href="https://www.npmjs.com/package/jsonwebtoken">NPM JSON Web Tokens</a></p>
-- <p><a href="https://www.npmjs.com/package/jwt-decode">NPM JWT Decode</a></p>
-- <p><a href="https://www.npmjs.com/package/nodemon">NPM Nodemon</a></p>
-- <p><a href="https://www.npmjs.com/package/if-env">NPM If Env</a></p>
 - <p><a href="https://www.mongodb.com/">MongoDB</a></p>
 - <p><a href="https://www.heroku.com/">Heroku</a></p>
 
@@ -87,15 +48,7 @@ GIVEN a book search engine
 
 ## Installation
 
-- Use the follow command at your terminal, **git clone** (Create a working copy at your local repository):
 
-  ```
-  git clone git@github.com:Derimarg/book-search-engine.git
-  ```
-
-- After cloned the repository, create your own repository, copy the files to your repository and type in your terminal the follow commands.
-
-  ```
   git status
 
   git add -A
@@ -140,30 +93,3 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `git push heroku main`
-
-Will deploy app to heroku
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/Derimarg/book-search-engine/issues) for a list of proposed features (and known issues).
-
-[Back To Top](#book-search-engine)
-
----
-
-<!-- CONTRIBUTORS -->
-
-## Contributing
-
-
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/name-of-feature`)
-3. Commit your Changes (`git commit -m "Add some feature"`)
-4. Push to the Branch (`git push origin feature/name-of-feature`)
-5. Open a Pull Request
-
-## Questions
-
